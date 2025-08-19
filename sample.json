@@ -1,0 +1,39 @@
+{
+"server":[
+    
+ {
+    "name":"server-1",
+    "created_by":"ram",
+    "os_type":"linux",
+    "region":"ap-south-1",
+    "age":3
+ },
+ {
+    "name":"server-2",
+    "created_by":"om",
+    "os_type":"ubuntu",
+    "region":"ap-south-2",
+    "age":5
+
+ },
+ {
+    "name":"server-3",
+    "created_by":"honey",
+    "os_type":"centos",
+    "region":"ap-south-3",
+    "age":7
+
+ },
+ {
+    "name":"server-3",
+    "created_by":"honey",
+    "os_type":"centos",
+    "region":"ap-south-3",
+    "age":7
+
+ }
+
+
+
+]
+}
