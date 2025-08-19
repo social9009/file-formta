@@ -1,0 +1,26 @@
+<server>
+  <server>
+  <name>server-1</name>
+  <created_by>ram</created_by>
+  <os_type>Linux</os_type>
+  <region>ap-south-1</region>
+  <age>3</age>
+  </server>
+
+  <server>
+  <name>server-1</name>
+  <created_by>om</created_by>
+  <os_type>centos</os_type>
+  <region>ap-south-2</region>
+  <age>4</age>
+  </server>
+
+  <server>
+  <name>server-1</name>
+  <created_by>honey</created_by>
+  <os_type>ubuntu</os_type>
+  <region>ap-south-3</region>
+  <age>5</age>
+  </server>
+
+</server>  
